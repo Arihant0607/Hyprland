@@ -1,0 +1,30 @@
+/* =========================
+   SAMURAI MOON FINAL THEME
+   ========================= */
+
+/* Background Layers */
+@define-color bg0 #141414;   /* Main bar */
+@define-color bg1 #1c1c1c;   /* Secondary modules */
+@define-color bg2 #242424;   /* Hover */
+@define-color bg3 #2a2a2a;   /* Borders */
+@define-color bg4 #333333;   /* Elevated */
+
+/* Accent Colors */
+@define-color red    #a11217;   /* Crimson tree */
+@define-color orange #b85c38;   /* Ember */
+@define-color yellow #e6d8b5;   /* Moon glow */
+@define-color green  #4a6355;   /* Muted moss */
+@define-color aqua   #4c6b6f;   /* Mist */
+@define-color blue   #2f3e46;   /* Night steel */
+@define-color purple #5c3a4d;   /* Dusk tone */
+
+/* Text */
+@define-color fg     #f5f1e6;   /* Primary text */
+@define-color grey   #5f5f5f;
+@define-color grey1  #8c8c8c;
+@define-color grey2  #b8b2a3;
+
+/* Tooltip */
+@define-color tooltip-bg     #1b1916;
+@define-color tooltip-border #3a2f25;
+@define-color tooltip-fg     #e6d8b5;
